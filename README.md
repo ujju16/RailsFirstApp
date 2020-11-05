@@ -7,8 +7,8 @@ Cour et tuto sur le developpement d'une app avec le
 
 Grâce à Ruby le developpemnt est devenu un vrai plaisirs et la toujours été. Mise en place du projet et suivis de différent tutoriel avec OpenClassroom `Git` et [Ruby On Rails](http://french.railstutorial.org/chapters/beginning#top)
 
-- [ ] M.V.C **M**odel **V**ue **C**ontrôleur
-- [ ] Apprendre à commiter correctement
+- [x] M.V.C **M**odel **V**ue **C**ontrôleur
+- [x] Apprendre à commiter correctement
 - [ ] Comprendre Rails
 - [ ] Developper son App
 - [ ] Y'a du boulot
